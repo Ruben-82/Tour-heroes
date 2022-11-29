@@ -99,6 +99,10 @@
     }
   },
   "cli": {
+ create-project
+    "analytics": "7cd9163a-7cd8-4023-be36-f7ec7612268f"
+
     "analytics": "86fed3b5-31f3-4dcb-b4b7-fe17c0911153"
+ develop
   }
 }
